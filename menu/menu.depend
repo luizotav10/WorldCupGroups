@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1528995570 source:c:\users\daeln\desktop\menu\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes.h"
+
+1529000345 c:\users\daeln\desktop\menu\funcoes.h
+
+1528995595 source:c:\users\daeln\desktop\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes.h"
+
+1530240653 source:c:\users\luiz\desktop\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes.h"
+
+1530076126 c:\users\luiz\desktop\menu\funcoes.h
+
+1530164974 source:c:\users\luiz\desktop\menu\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+	<windows.h>
+
+1530156715 source:c:\users\renan\downloads\menu\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+	<windows.h>
+
+1530076125 c:\users\renan\downloads\menu\funcoes.h
+
+1530156297 source:c:\users\renan\downloads\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes.h"
+
+1530164973 source:c:\users\renan\desktop\menu\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+	<windows.h>
+
+1530076126 c:\users\renan\desktop\menu\funcoes.h
+
+1530164790 source:c:\users\renan\desktop\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes.h"
+

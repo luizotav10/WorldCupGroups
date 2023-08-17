@@ -1,0 +1,32 @@
+R£ssia 1 0
+Alemanha 1 1
+Brasil 2 2
+Portugal 1 3
+Argentina 2 4
+B‚lgica 1 5
+Pol“nia 1 6
+Fran‡a 1 7
+Espanha 1 8
+Peru 2 10
+Su¡‡a 1 11
+Inglaterra 1 12
+Col“mbia 2 13
+M‚xico 3 16
+Uruguai 2 17
+Cro cia 1 18
+Dinamarca 1 19
+Islƒndia 1 21
+Costa_Rica 3 22
+Su‚cia 1 25
+Tun¡sia 4 28
+Egito 4 30
+Senegal 4 32
+IrÆ 5 34
+S‚rvia 1 38
+Nig‚ria 4 41
+Austr lia 5 43
+JapÆo 5 44
+Marrocos 4 48
+Panam  3 49
+Cor‚ia_do_Sul 5 62
+Ar bia_Saudita 5 63
